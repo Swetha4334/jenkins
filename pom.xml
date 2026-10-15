@@ -12,6 +12,10 @@
   <version>3.0.0</version>
   <name>Swetha.com</name>
   <description>Blank multi project for Spring Boot + Elm</description>
+  <modules>
+    <module>swetha.com-frontend</module>
+    <module>swetha.com-backend</module>
+  </modules>
   <dependencyManagement>
     <dependencies>
       <dependency>
